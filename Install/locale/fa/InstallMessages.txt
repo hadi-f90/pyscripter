@@ -1,0 +1,4 @@
+﻿en.PyScripterHelp=PyScripter کمک
+en.EditwithPyScripter=PyScripter ویرایش در
+en.ShellIntegrationEditwithPyScripter=به منوی محتوای کاوشگر فایل 'PyScripter ویرایش در' افزودن گزینه ی
+en.ShellIntegration=ادغام در پوسته
