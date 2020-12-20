@@ -1,15 +1,14 @@
-***********  This is the 64-bit version of PyScripter. *************
-It requires a 64-bit version of Windows. Please note that PyScripter will only
-work if a 64-bit version of Python is installed.
+***********  این نگارش 64 بیت PyScripter است. *************
+این نسخه نیازمند نگارش 64 بیت ویندوز است. لطفاً توجّه داشته باشید که این نسخه از PyScripter
+فقط در صورتی کار می کند که نسخه ی 64بیت پایتون نصب شده باشد.
 
-Before using PyScripter, you must ensure that there is a version of Python 
-greater or equal to 2.6 installed on your machine. If not, you can download one 
-from http://www.python.org/.
+پیش از به کار بردن PyScripter، از نصب بودن پایتون 2.6 و یا نگارشی بالاتر از آن بر روی رایانه ی خود اطمینان
+حاصل کنید. اگر این طور نیست می توانید یک نسخه از آن را از http://www.python.org/ دریافت و نصب کنید.
 
-Please visit https://github.com/pyscripter/pyscripter/wiki for information about
-remote debugging and other PyScripter related topics.
+برای اطّلاعات بیشتر درباره ی اشکال زدایی راه دور و موضوعات دیگر مرتبط با PyScripter به نشانی 
+https://github.com/pyscripter/pyscripter/wiki مراجعه کنید.
 
-You can also check if there is a newer version of PyScripter at
-https://sourceforge.net/projects/pyscripter/files/.
+همچنین شما می توانید با مرجعه به https://sourceforge.net/projects/pyscripter/files/
+بررسی کنید آیا نسخه ی جدیدتری از PyScripter موجود هست یا نه.
 
-Thank you for your interest in PyScripter.
+با سپاس از علاقه ی شما به PyScripter.
